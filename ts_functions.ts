@@ -7,6 +7,8 @@ function func(fname: string, sname: string): string{
     return fname + sname;
 }
 
+
+
 let test = func("Ashutosh", "Swami")
 //console.log(test)
 
