@@ -14,6 +14,8 @@ abstract class AbstractAnimal {
     }
 }
 
+
+
 class Dog extends AbstractAnimal {
     constructor(name: string) {
         super(name);
