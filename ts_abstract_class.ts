@@ -30,6 +30,8 @@ class Dog extends AbstractAnimal {
 
 
 
+
+
 const dogAbst = new Dog("Dog");
 dogAbst.makeSound();
 dogAbst.move();
