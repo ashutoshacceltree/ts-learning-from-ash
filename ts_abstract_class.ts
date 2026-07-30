@@ -13,7 +13,7 @@ abstract class AbstractAnimal {
         console.log(`${this.constructor.name} is moving`);
     }
 }
-
+// Mking some changes
 
 
 class Dog extends AbstractAnimal {
